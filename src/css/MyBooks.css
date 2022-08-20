@@ -1,0 +1,24 @@
+/* -----------------mybooks page------------------ */
+.mybooks {
+    width: 140px;
+    margin-right: 20px;
+}
+.mybook {
+    position: relative;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+}
+#title, #authors {
+    font-size: 0.8em;
+    text-align: center;
+}
+#title {
+    margin-top: 10px;
+    text-shadow: 0 0 2px #9eb045;
+}
+#authors {
+    color: #9eb045;
+    /* text-shadow: 0 0 1px black; */
+}
+

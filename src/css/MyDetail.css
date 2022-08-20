@@ -1,0 +1,33 @@
+#detail{
+    background: #f2f2f2;
+    padding: 20px 5%;
+    text-align: center;
+    display: flex;
+    width: 90%;
+    margin: 0px auto;
+    border: 2px solid #7b873d;
+    border-radius: 10px;
+    box-shadow: 7px 7px 5px #455109;
+}
+#detail h2{
+  font-style: oblique;
+  text-shadow: #839140;
+}
+/* #image{
+  width: 450px;
+  height: 500px; 
+} */
+#books{
+  padding: 20px 90px;
+}
+#button{
+  display: flex;
+  justify-content: space-around;
+}
+.buttoninside{
+  background-color: #839140;
+  color: white;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 0 5px;
+}
